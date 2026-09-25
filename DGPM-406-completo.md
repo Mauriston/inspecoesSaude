@@ -1,5 +1,6 @@
 Ir para a [Seção de Configuração](#11-descri%C3%A7%C3%A3o)
-Ir para o [Histórico do Projeto](#histórico-do-projeto)
+
+Ir para o [Histórico do Projeto](#141-odontologia-legal)
 
 
 # Capítulo 1 — ESTRUTURA DO SUBSISTEMA MÉDICO-PERICIAL DA MB
