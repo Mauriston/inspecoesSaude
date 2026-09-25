@@ -1,4 +1,4 @@
-Ir para a [Seção de Configuração](## 1.1. DESCRIÇÃO)
+Ir para a [Seção de Configuração](##-1.1.-DESCRIÇÃO)
 Ir para o [Histórico do Projeto](#histórico-do-projeto)
 
 
