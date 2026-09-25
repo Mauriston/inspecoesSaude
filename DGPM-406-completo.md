@@ -1,11 +1,3 @@
-<ol type="a">
-  <li>Primeiro item</li>
-  <li>Segundo item</li>
-  <li>Terceiro item</li>
-</ol>
-
-
-
 # Capítulo 1 — ESTRUTURA DO SUBSISTEMA MÉDICO-PERICIAL DA MB
 
 
