@@ -1,5 +1,5 @@
 1. Primeiro tópico principal
-2.     Subtópico A
+    2. Subtópico A
     b. Subtópico B
 3. Segundo tópico principal
     a. Subtópico A
