@@ -1,3 +1,7 @@
+Ir para a [Seção de Configuração](#capitulo-1-estrutura-do-subsistema-medico-pericial-da-mb)
+Ir para o [Histórico do Projeto](#histórico-do-projeto)
+
+
 # Capítulo 1 — ESTRUTURA DO SUBSISTEMA MÉDICO-PERICIAL DA MB
 
 
