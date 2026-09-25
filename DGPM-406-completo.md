@@ -1,7 +1,7 @@
 1. Primeiro tópico principal
-    a. Subtópico A
+2.     Subtópico A
     b. Subtópico B
-2. Segundo tópico principal
+3. Segundo tópico principal
     a. Subtópico A
     b. Subtópico B
 
