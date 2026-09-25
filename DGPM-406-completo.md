@@ -1,4 +1,4 @@
-Ir para a [Seção de Configuração](##-1.1.-DESCRICAO)
+Ir para a [Seção de Configuração](https://github.com/Mauriston/inspecoesSaude/blob/main/DGPM-406-completo.md#11-descri%C3%A7%C3%A3o)
 Ir para o [Histórico do Projeto](#histórico-do-projeto)
 
 
